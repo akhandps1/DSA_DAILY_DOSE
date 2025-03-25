@@ -1,0 +1,167 @@
+Lecture 01: Introduction To Programming for Beginners
+Lecture 02: Introduction to FlowCharts and PseudoCode in Programming
+Lecture 03: Start C++ from Zero and Write Your First Program
+Lecture 04: If Else Statement in C++ || Loop in C++
+Lecture 05: For Loop in C++ Advance || Prime Number || Factorial || Fibonacci || Sum of n number
+Lecture 06: Solve Any Pattern Problem With Simple Trick Part-1
+Lecture 07: Solve Any Pattern Problem with Simple Trick Part-2
+Lecture 08: Solve HARD Pattern Print Problem with Simple Trick
+Lecture 09: Top 5 Advance Pattern Print Problems
+Lecture 10: Operators in C++ with Implementation
+Lecture 11: While and Do While Loop || Switch || Break || Continue in C++
+Lecture 12: Binary To Decimal || Decimal To Binary || Decimal To Octal || Binary To Octal Conversion
+Lecture 13: Write Your First Program On LeetCode
+Lecture 14: Functions in C++ || Pass by Value || Pass by Reference
+Lecture 15: C++ Series End Here
+Lecture 16: Introduction To Arrays in C++
+Lecture 17: Master Arrays By Solving Problems
+Lecture 18: Time and Space Complexity From Zero To Advance
+Lecture 19: SELECTION SORT Algorithm with Theory and Code
+Lecture 20: Bubble Sort with Theory and Code
+Lecture 21: Insertion Sort with Theory and Code
+Lecture 22: Binary Search with Theory and Code
+Lecture 23: Binary Search Different Problem || Search Insert Position || Sqrt(x) || Count Occurrence
+Lecture 24: Search in a Rotated Array | Peak Index in a Mountain Array | Kth Missing Positive Number
+Lecture 25: Binary Search Top Interview Problem | Book Allocation | Painter Partition | Ship Package
+Lecture 26: Binary Search Hard Interview Problem || Aggressive Cow || KOKO Eating Banana
+Lecture 27: What is STL || Vector in C++
+Lecture 28: Two Pointer in C++ | TWO SUM | Pair Sum | Pair Difference | Move 0 to End
+Lecture 29: Kadane's Algorithm || Prefix and Suffix Sum || Array into 2 Equal Sum Subarray
+Lecture 30: Trapping Rain Water || 3 SUM || 4 SUM
+
+Lecture 31: Introduction To 2D Arrays in C++
+Lecture 32: 2D Arrays Interview Problems || Wave Form || Spiral Form || Transpose Matrix
+Lecture 33: Rotate Image | Rotate by 90 Degree | Rotate Matrix Element Clockwise | Rotate Matrix 180
+Lecture 34: Binary Search in 2D Arrays || Search in a Sorted Row-Col Wise Matrix
+Lecture 35: Majority Elements || Count Frequency of Element | Find Missing and Repeating Elements
+Lecture 36: Introductions To STRINGS in C++
+Lecture 37: String Interviews Problem Solving || Sort a String
+Lecture 38: Longest Palindrome || Sorting the Sentence
+Lecture 39: Strings Interview Problems on LeetCode || Add Strings || Sort Vowels in a String
+Lecture 40: Factorial of Large Number || Integer to Roman || Roman to Integer
+Lecture 41: Sliding Window Protocol on Strings
+Lecture 42: KMP Algorithm || Longest Prefix Suffix
+Lecture 43: String Matching || KMP Algorithm
+Lecture 44: Strings HARD Problems For Coding Round
+Lecture 45: Pointers in C++ || Introduction to Pointers in C++
+Lecture 46: Pointers Relationship with Array || Arithmetic Pointers
+Lecture 47: Pointers with Character Arrays and Functions
+Lecture 48: Double Pointer and Multiple Pointers in C++
+Lecture 49: Memory Management || Static vs Dynamic Memory Allocation
+Lecture 50: Dynamic Memory Allocation of 2D and 3D Arrays in C++
+Lecture 51: Introduction To Recursion From Basic To Advance
+Lecture 52: How To Solve Recursion Problem from 4 Different Methods
+Lecture 53: Recursion: Factorial of a Number | Sum of N Numbers | Power of Number | Sum of Square
+Lecture 54: Recursion Problems on LeetCode
+Lecture 55: Recursion in Arrays
+Lecture 56: Recursion in Strings
+Lecture 57: Recursion in Binary Search
+Lecture 58: Time Complexity and Space Complexity in Recursion
+Lecture 59: Merge Sort Algorithm
+Lecture 60: Quick Sort Algorithm
+
+Lecture 61: Recursion on Subsequence || Print All Subsequence || Generate Parentheses
+Lecture 62: Recursion on Subset Sum || Target Sum
+Lecture 63: Recursion Perfect Sum Problem || Target Sum with Repetition
+Lecture 64: Permutation of Arrays and Strings
+Lecture 65: Permutation with Repetition || Ways to Sum N
+Lecture 66: Tower of Hanoi || Code Part and Dry Run
+Lecture 67: Josephus Problem || Predict the Winner
+Lecture 68: Recursion Rat in a Maze Problem
+Lecture 69: Print N-bit Binary Numbers Having More 1s than 0s
+Lecture 70: Object Oriented Programming in C++
+Lecture 71: Constructor and Destructor in C++
+Lecture 72: Object Oriented Programming: Static Data Member and Function | Encapsulation
+Lecture 73: Inheritance | Access Modifier | Real Life Example
+Lecture 74: Type of Inheritance in C++ | Single Inheritance | Multiple | Hybrid | Multipath
+Lecture 75: Polymorphism and Virtual Function in C++
+Lecture 76: Exception Handling in C++
+Lecture 77: File Handling in C++
+Lecture 78: Introduction To Linked List | Traversal and Insertion in a Linked List
+Lecture 79: Deletion in a Singly Linked List | Deletion in Constant Time
+Lecture 80: Reverse a Linked List | Middle of Linked List | Rotate Linked List
+Lecture 81: Linked List LeetCode Problem: Remove Every Kth Node | Rotate List | Palindrome List
+Lecture 82: Introduction to Doubly Linked List || Insertion and Deletion in Doubly Linked List
+Lecture 83: LinkedList Problems: Remove Duplicates | Merge 2 Sorted LinkedList | Sort a LinkedList
+Lecture 84: Circular Linked List: Detect Loop in Linked List || Find Length of Loop
+Lecture 85: Hard Problem: Detect and Remove Loop in LinkedList
+Lecture 86: Add Two Numbers Represented by Linked Lists | Reverse a Linked List in Groups
+Lecture 87: Hard Problem on Linked List: Flattening a Linked List | Merge K Sorted Linked List
+Lecture 88: LinkedList Series End Here: Clone a Linked List with Next and Random Pointer
+Lecture 89: Introduction To STACK || Implement Stack Using Arrays and LinkedList
+
+Lecture 91: STACK : Valid Parentheses | Print Bracket Number | Reverse Array | Get min at pop
+Lecture 92: Stack Problem: Next Greater Element | Next Smaller Element | Stock Span Problem
+Lecture 93: Stack Problem: Largest Rectangle in Histogram | Maximal Rectangle
+Lecture 94: The Celebrity Problem
+Lecture 95: Stack Hard: Maximum of Minimum for Every Window Size | Get Minimum Element from Stack
+Lecture 96: Implement Two Stacks in an Array | N Stack in an Array
+Lecture 97: Introduction To Queue || Implement Queue with Array and LinkedList || Circular Queue
+Lecture 98: Print All Elements in Queue | Implement Queue using Stack | Implement Stack using Queue
+Lecture 99: Queues with Sliding Window Problems
+Lecture 100: Introduction to Deque and Implementation
+Lecture 101: Queue Hard: Sliding Window Maximum | Minimum Number of K Consecutive Bit Flips
+Lecture 102: Introduction To Trees | Binary Tree in Data Structure
+Lecture 103: Binary Tree in Data Structure | Binary Tree Traversal | How to Create Binary Tree | DSA
+Lecture 104: Binary Tree Problems For Technical Interview | Size of Binary Tree | Height of Binary Tree
+Lecture 105: Binary Tree Problems: Mirror Tree | Two Nodes are Cousins | Check for Balanced Tree | Spiral Form
+Lecture 106: Binary Tree: Left View of Binary Tree | Right View of Binary Tree | Top View of Binary Tree
+Lecture 107: Binary Tree: PreOrder Traversal Iterative | PostOrder Traversal Iterative | InOrder Traversal
+Lecture 108: Binary Tree Problems: Construct Tree from Inorder & Preorder | Tree from Postorder and Inorder
+Lecture 109: Binary Tree Traversal: Vertical Traversal of Binary Tree | Diagonal Traversal | Boundary Traversal
+Lecture 110: Morris Traversal: Inorder Traversal | Flatten Binary Tree to LinkedList | Post Order | PreOrder
+Lecture 111: Burning Tree || Maximum Path Sum between 2 Special Nodes
+Lecture 112: Binary Search Tree in Data Structure || Implementation, Insertion, Deletion and Search
+Lecture 113: Binary Search Tree Interview Problem | 5 Binary Search Tree Problems in One Shot
+Lecture 114: Binary Search Tree Problems for Coding Round
+Lecture 115: Binary Search Tree: LCA of BST | Find Common Nodes in 2 BST | Check whether BST contains Dead End
+Lecture 116: Binary Search Tree: Fixing Two Nodes of a BST | Sorted Link List to BST | Merge Two BST
+Lecture 117: Largest Binary Search Tree | Maximum Sum BST in Binary Tree | Leetcode
+Lecture 118: AVL Tree in Data Structure | AVL Tree Insertion | AVL Tree Search | AVL Tree Rotation
+Lecture 119: AVL Tree Deletion | (Theory + Dry Run + Code Implementation)
+Lecture 120: STL in C++
+
+Lecture 121: Heap Data Structure | Insertion and Deletion in Max Heap
+Lecture 122: Heap Sort | Build Heap in C++ | Priority Queue
+Lecture 123: Heap 6 Interview Problem | Height of Heap | Minimum Cost of Ropes | Magician and Chocolates
+Lecture 124: Kth Smallest Element in an Array | Kth Largest Element in an Array | Heap | Priority Queue
+Lecture 125: Merge Two Binary Max Heaps | Is Binary Tree Heap | BST to Max Heap
+Lecture 126: Heap Hard Problem: Kth Element in Matrix (5 Approaches) | Find Median in a Stream
+Lecture 127: Heap Interview Problem: Merge K Sorted Linked List | Merge K Sorted Arrays
+Lecture 128: Heap: Smallest Range Covering Elements from K Lists | Construct Target Array With Multiple Sums
+Lecture 129: Sliding Window: Zero Sum Subarrays | Subarray Sum Equals K
+Lecture 130: Sliding Window: Subarray Sums Divisible by K | Subarray Product Less Than K
+Lecture 131: Sliding Window: Minimum Size Subarray Sum | Minimum Window Substring
+Lecture 132: Subarrays with K Different Integers | Count Subarrays Where Max Element Appears at Least K Times
+Lecture 133: Graph Data Structure | Real World Example to Explain Graph
+Lecture 134: Graph Representation in Data Structure | Adjacency Matrix and Adjacency List
+Lecture 135: BFS Traversal in Graph | DFS Traversal in Graph
+Lecture 136: Detect Cycle in an Undirected Graph | BFS + DFS
+Lecture 137: Topological Sort | Kahn's Algorithm
+Lecture 138: Detect Cycle in a Directed Graph | BFS + DFS
+Lecture 139: Bipartite Graph | BFS + DFS + Code + Real Life Application
+Lecture 140: Graphs: Covid Spread | Find the Number of Islands | Replace O's with X's
+Lecture 141: Graphs: Alien Dictionary | Parallel Courses 3 | Course Schedule | Prerequisite Tasks
+Lecture 142: Graph: Shortest Path in Undirected Graph
+Lecture 143: Graphs: Shortest Path in Directed Acyclic Graph
+Lecture 144: Dijkstra Algorithm | Intuition + Code + Dry Run + 2 Methods
+Lecture 145: Shortest Path in Weighted Undirected Graph
+Lecture 146: Bellman-Ford Algorithm | Distance from the Source
+Lecture 147: Floyd Warshall Algorithm | MultiSource Shortest Path Algorithm
+Lecture 148: Graphs: Knight Walk | Shortest Source to Destination Path in Binary Matrix | Find Whether Path Exists
+Lecture 149: Euler Path and Euler Circuit in a Graph
+Lecture 150: Circle of Strings
+
+Lecture 151: Minimum Spanning Tree | Prim’s Algorithm
+Lecture 152: Kruskal's Algorithm | Disjoint Set
+Lecture 153: Bridge in a Graph | Critical Connections in a Network
+Lecture 154: Articulation Point in a Graph | Tarjan's Algorithm
+Lecture 155: Hamiltonian Path | Hamiltonian Cycle
+Lecture 156: Strongly Connected Components | Kosaraju Algorithm | Tarjan Algorithm
+Lecture 157: Backtracking: N-Queens | M-Coloring Problem | Sudoku Solver
+Lecture 158: Greedy Algorithm From Basic To Advance
+Lecture 159: Hashing in Data Structure | Zero To Advance Level
+Lecture 160: Introduction To Dynamic Programming
+Lecture 161: Climbing Stairs | Dynamic Programming
+Lecture 162: Count Number of Hops | Min Cost Climbing Stairs
+Lecture 163: House Robber | House Robber 2
