@@ -1,4 +1,215 @@
 # DSA_DAILY_DOSE
+<h1 align="center">
+  <a name="logo"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa%20logo.png" alt="Complete DSA Preparation" width="750"></a>
+  <br>
+  Complete DSA Preparation 
+</h1>
+<h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4>
+
+# [LeetCode](https://leetcode.com/problemset/algorithms/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/) 
+
+## Table of Contents
+
+- [Time Complexity](#Time-complexity)
+- [Mathematics](#mathematics)
+- [Bits Manipulation](#Bits-Manipulation)
+- [Recursion](#Recursion)
+- [Arrays](#Arrays)
+- [Searching](#Searching)
+- [Sorting](#Sorting)
+- [Matrix](#matrix)
+- [Hashing](#Hashing)
+- [String](#String)
+- [Linked List](#Linked-List)
+- [Stack](#Stack)
+- [Queue](#Queue)
+- [Tree](#Tree)
+- [Binary Search Tree](#Binary-Search-Tree)
+- [Heap](#Heap)
+- [Graph](#Graph)
+- [Greedy](#Greedy)
+- [Backtracking](#Backtracking)
+- [Dynamic Programming](#Dynamic-Programming)
+- [Trie](#Trie)
+
+
+## Mathematics
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+## Bits Manipulation
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+## Recursion
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+## Arrays
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+## Searching
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+
+## Sorting
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+
+## Matrix
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|[What is Multidimensional Arrays c++](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/multi%20dimension%20array.pdf)|[Video](https://youtu.be/TfE2c7SXaUo)|:green_square: Easy| Matrix, Array |
+
+
+
+## Hashing
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+## String
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+
+
+## Linked List
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+
+
+## Stack
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+## Queue
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+
+## Tree
+
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+## Binary Search Tree
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+## Heap
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+## Graph
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+
+
+
+
+## Greedy
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|
+
+
+
+## Backtracking
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|
+
+
+## Dynamic Programming
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| [Fibonacci Numbers - Top Down DP](https://practice.geeksforgeeks.org/problems/fibonacci-numbers-top-down-dp/1) | | |  | :green_square: Easy | Recursion |
+
+
+## Trie
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| [Insert and Search](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1) | | |  | :orange_square: Medium | Trie |
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
 
 ## About
 ---
