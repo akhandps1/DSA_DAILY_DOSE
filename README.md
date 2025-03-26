@@ -204,21 +204,6 @@
 <br>
 
 
-
-
-
-
-
-
-
-## About
----
-This Repository will serve as a Hand-Book for <b>DSA practice and Competitive-Coding</b> .
-It includes Description, Implementation, Analysis, Questions along with solutions of mostly used Data-Structures and Algorithms.
-Hope this Repository serves it's purpose well.
-
-Happy Learning :)
-
 ## Topics
 ---
 1. <b>Data Structures</b>
@@ -248,14 +233,3 @@ Happy Learning :)
 	10. Divide n Conquer
 	11. Back tracking
 	12. Branch n Bound
-
-
-## Steps to Contribute
----
-1. Fork this Repository and make a Pull Request.
-2. Every Data Structure and Algorithm can be implemented in any language of your choice.
-3. Data Structures are to be put into different folders. Each folder can have only one Implementation of the said Data-Structure in each language.
-4. Every Paradigm of Algorithms can have many algorithms belonging to them.
-
-
-## Keep contributing :)
